@@ -62,4 +62,4 @@ result_label.pack(pady=10)
 root.mainloop()
 
 #Hi I am Absatou
-#Salut
+#Je suis Awa
